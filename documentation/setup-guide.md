@@ -1,6 +1,5 @@
 # Westcoast IT Active Directory - Quick Setup Guide
 
-**Time Required**: 
 
 ---
 
