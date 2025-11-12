@@ -186,7 +186,6 @@ WestCoast.local
 2. Press F5 to refresh
 3. Server should show **green checkmark**
 
-✅ **DHCP is working!**
 
 ---
 
