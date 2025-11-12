@@ -26,7 +26,7 @@ WestCoast.local
 | Robert Lopez | rlopez   | IT         |
 
 ## Documentation
-- [Engineer Onboarding SOP](documentation/SOP-Onboarding-Engineer.pdf)
+- [Engineer Onboarding SOP](documentation/SOP-Onboarding-Engineer.md)
 - [Setup Guide](documentation/setup-guide.md)
 
 ## Technologies Used
